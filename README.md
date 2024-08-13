@@ -24,4 +24,5 @@
 | U2 |MCP2562-H-SN||https://mou.sr/4dl9AXA|
 | Y1 | Crystal| 8Mhz ||https://akizukidenshi.com/catalog/g/g108667/|
 | SW1| Push_Switch 6mm H4.3mm||https://akizukidenshi.com/catalog/g/g115969/|
+|J1,J2,J4,J5,J6,J7,J8|2.54mm　terminal block||https://akizukidenshi.com/catalog/g/g114217/|
 
