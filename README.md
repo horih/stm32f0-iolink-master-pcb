@@ -1,6 +1,6 @@
 # C104 IOLink-master-PCB
 ## 回路図PDF
-[PDFファイル](iolink_pcb.pdb)
+[PDFファイル](iolink_pcb.pdf)
 ## パーツリスト
 | 番号 | パーツ名 | 値 | その他 |
 | :--- | :---: | :---: | :---: |
